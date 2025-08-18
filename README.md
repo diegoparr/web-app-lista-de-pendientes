@@ -59,6 +59,7 @@ pip install -r requirements.txt
 Ejecuta las migraciones para crear la base de datos:
 
 ```bash
+cd src
 python manage.py makemigrations
 python manage.py migrate
 ```

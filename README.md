@@ -1,4 +1,3 @@
-Aquí tienes las instrucciones para tu archivo `README.md` con el enlace a tu repositorio. Simplemente copia y pega este texto y reemplaza los marcadores de posición si es necesario.
 
 ## **Cómo ejecutar el proyecto 🚀**
 

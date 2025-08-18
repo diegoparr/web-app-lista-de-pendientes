@@ -11,7 +11,7 @@ Sigue estos pasos para poner en marcha el proyecto en tu máquina local.
 Abre la terminal y clona el proyecto con el siguiente comando:
 
 ```bash
-git clone https://github.com/tu-usuario/nombre-del-repositorio.git
+git clone https://github.com/diegoparr/web-app-lista-de-pendientes
 ```
 
 -----

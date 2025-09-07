@@ -1,4 +1,7 @@
+<<<<<<< HEAD
 [Read in English](docs/README.en.md)
+=======
+>>>>>>> 536177fcbbffdf8e75b66ee05cb6398ca9fce9bd
 
 ## **Cómo ejecutar el proyecto 🚀**
 
@@ -60,6 +63,7 @@ pip install -r requirements.txt
 Ejecuta las migraciones para crear la base de datos:
 
 ```bash
+cd src/proyecto
 python manage.py makemigrations
 python manage.py migrate
 ```

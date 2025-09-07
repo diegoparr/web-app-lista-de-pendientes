@@ -29,7 +29,7 @@ Bash
 source venv/bin/activate
 4. Install dependencies
 Install all the necessary libraries for the project using the requirements.txt file:
-
+  
 Bash
 
 pip install -r requirements.txt
